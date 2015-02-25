@@ -3,7 +3,8 @@ package com.mikes.stablemarriage;
 import java.util.ArrayList;
 
 /**
- * Created by Mike Schendel on 2/22/15.
+ * Created by Mike Schendel on 2/22/1
+ *s
  */
 public class Matcher {
 
